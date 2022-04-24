@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects (Contains no Leaderboard Implementation)/QMUL-ITMB Revision/app/src/main/res/drawable/card_bckground.xml" value="0.153125" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects (Contains no Leaderboard Implementation)/QMUL-ITMB Revision/app/src/main/res/drawable/ic_baseline_logoutlogo.xml" value="0.153125" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects (Contains no Leaderboard Implementation)/QMUL-ITMB Revision/app/src/main/res/drawable/ic_leaderboard.xml" value="0.153125" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects (Contains no Leaderboard Implementation)/QMUL-ITMB Revision/app/src/main/res/drawable/ic_modules.xml" value="0.153125" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects (Contains no Leaderboard Implementation)/QMUL-ITMB Revision/app/src/main/res/drawable/ic_upload.xml" value="0.153125" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects (Contains no Leaderboard Implementation)/QMUL-ITMB Revision/app/src/main/res/layout/activity_dashboard.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects (Contains no Leaderboard Implementation)/QMUL-ITMB Revision/app/src/main/res/layout/activity_leaderboard.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects (Contains no Leaderboard Implementation)/QMUL-ITMB Revision/app/src/main/res/layout/activity_login.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects (Contains no Leaderboard Implementation)/QMUL-ITMB Revision/app/src/main/res/layout/activity_main.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects (Contains no Leaderboard Implementation)/QMUL-ITMB Revision/app/src/main/res/layout/activity_upload_notes_business_model.xml" value="0.134375" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects (Contains no Leaderboard Implementation)/QMUL-ITMB Revision/app/src/main/res/layout/score_list_item.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects (Contains no Leaderboard Implementation)/QMUL-ITMB Revision/app/src/main/res/layout/text_row_item.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/drawable/card_bckground.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/drawable/semicircle_background.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_dashboard.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_module_confirmation.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_module_list.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_module_select.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_note_choice.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_read_notes_business_model.xml" value="0.14010416666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_read_notes_database_sys.xml" value="0.14010416666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_read_notes_internet_prot.xml" value="0.14010416666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_read_notes_software_eng.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_software_eng_notes_select.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_software_eng_week_select.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_upload_notes.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_upload_notes_business_model.xml" value="0.14010416666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_upload_notes_database_sys.xml" value="0.14010416666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_upload_notes_internet_prot.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_upload_notes_software_eng.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_upload_read_choice.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_upload_read_choice_business_model.xml" value="0.14010416666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_upload_read_choice_database_sys.xml" value="0.14010416666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_upload_read_choice_internet_prot.xml" value="0.14010416666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/Other Projects/QMUL-ITMB Revision/app/src/main/res/layout/activity_upload_read_choice_software_eng.xml" value="0.22" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/QMUL-ITMB Revision/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/QMUL-ITMB Revision/app/src/main/res/layout/activity_module_list.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/QMUL-ITMB Revision/app/src/main/res/layout/activity_module_select.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/QMUL-ITMB Revision/app/src/main/res/layout/activity_software_eng_week_select.xml" value="0.22" />
+        <entry key="..\:/Users/Usman/AndroidStudioProjects/QMUL-ITMB Revision/app/src/main/res/layout/text_row_item.xml" value="0.16197916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

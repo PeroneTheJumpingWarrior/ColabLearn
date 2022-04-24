@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.qmul_itmbrevision">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.QMULITMBRevision">
+        <activity
+            android:name=".Leaderboard"
+            android:exported="false"
+            android:parentActivityName=".Dashboard"/>
+        <activity
+            android:name=".ReadNotes_BusinessModel"
+            android:exported="false"
+            android:label="Read Notes(Business Modelling)"
+            android:parentActivityName=".UploadReadChoice_BusinessModel" />
+        <activity
+            android:name=".UploadNotes_BusinessModel"
+            android:exported="false"
+            android:label="Upload Notes(Business Modelling)"
+            android:parentActivityName=".UploadReadChoice_BusinessModel" />
+        <activity
+            android:name=".UploadReadChoice_BusinessModel"
+            android:exported="false"
+            android:label="Read/Upload Notes(Business Modelling)"
+            android:parentActivityName=".ModuleSelect" />
+        <activity
+            android:name=".ReadNotes_DatabaseSys"
+            android:exported="false"
+            android:label="Read Notes(Database Systems)"
+            android:parentActivityName=".UploadReadChoice_DatabaseSys" />
+        <activity
+            android:name=".UploadNotes_DatabaseSys"
+            android:exported="false"
+            android:label="Upload Notes(Database Systems)"
+            android:parentActivityName=".UploadReadChoice_DatabaseSys" />
+        <activity
+            android:name=".UploadReadChoice_DatabaseSys"
+            android:exported="false"
+            android:label="Read/Upload Notes(Database Systems)"
+            android:parentActivityName=".ModuleSelect" />
+        <activity
+            android:name=".ReadNotes_InternetProt"
+            android:exported="false"
+            android:label="Read Notes(Internet Protocols and Applications)"
+            android:parentActivityName=".UploadReadChoice_InternetProt" />
+        <activity
+            android:name=".UploadNotes_InternetProt"
+            android:exported="false"
+            android:label="Upload Notes(Internet Protocols and Applications)"
+            android:parentActivityName=".UploadReadChoice_InternetProt" />
+        <activity
+            android:name=".UploadReadChoice_InternetProt"
+            android:exported="false"
+            android:label="Upload/Read Notes(Internet Protocols and Applications)"
+            android:parentActivityName=".ModuleSelect" />
+        <activity
+            android:name=".ReadNotes_SoftwareEng"
+            android:exported="false"
+            android:label="Read Notes(Software Engineering)"
+            android:parentActivityName=".UploadReadChoice_SoftwareEng" />
+        <activity
+            android:name=".UploadNotes_SoftwareEng"
+            android:exported="false"
+            android:label="Upload Notes(Software Engineering)"
+            android:parentActivityName=".UploadReadChoice_SoftwareEng" />
+        <activity
+            android:name=".UploadReadChoice_SoftwareEng"
+            android:exported="false"
+            android:label="Upload/Read Notes(Software Engineering)"
+            android:parentActivityName=".ModuleSelect" />
+        <activity
+            android:name=".Dashboard"
+            android:exported="false"
+            android:label="Dashboard" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".ModuleSelect"
+            android:exported="false"
+            android:label="Select Module"
+            android:parentActivityName=".Dashboard" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

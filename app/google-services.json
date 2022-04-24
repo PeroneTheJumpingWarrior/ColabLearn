@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920553970001",
+    "project_id": "qmul-itmb-revision",
+    "storage_bucket": "qmul-itmb-revision.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920553970001:android:9a24eadc0c078103681b70",
+        "android_client_info": {
+          "package_name": "com.example.qmul_itmbrevision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920553970001-psovor79kul70c6m9pgd2gbioeijso37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxa6cqwy5iUiuUXNC5Ffrvib0f_RDb2sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920553970001-psovor79kul70c6m9pgd2gbioeijso37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
